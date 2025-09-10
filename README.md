@@ -11,6 +11,7 @@ Una aplicación web de lista de tareas desarrollada para aprender Docker y conte
 
 Aplicación web full-stack que permite gestionar una lista de tareas con las siguientes funcionalidades:
 - ✅ Crear nuevas tareas
+- ✅ Guarda el contenido en la base de datos siempre y cuando no se elimine el contenedor
 - ✅ Marcar tareas como completadas
 - ✅ Eliminar tareas
 - ✅ API REST completa
