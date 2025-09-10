@@ -3,6 +3,7 @@ const sqlite3 = require('sqlite3').verbose();
 const cors = require('cors');
 const bodyParser = require('body-parser');
 const path = require('path');
+const dbPath = path.resolve(__dirname, 'data' ,'tasks.db'); 
 
 const app = express();
 const PORT = process.env.PORT || 3000;
