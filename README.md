@@ -13,7 +13,6 @@ Aplicación web full-stack que permite gestionar una lista de tareas con las sig
 - ✅ Crear nuevas tareas
 - ✅ Marcar tareas como completadas
 - ✅ Eliminar tareas
-- ✅ Persistencia de datos con SQLite
 - ✅ API REST completa
 - ✅ Totalmente contenerizada con Docker
 
